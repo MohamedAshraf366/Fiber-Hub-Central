@@ -1,0 +1,15 @@
+{
+  "name": "Fiber Hub Central",
+  "short_name": "Fiber Hub",
+  "description": "إدارة أطر التوزيع الضوئي ODF",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}
